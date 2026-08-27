@@ -42,6 +42,16 @@ O Power BI Desktop foi conectado a essa base para realizar a extração, o trata
 
 O dashboard foi desenvolvido em página única, com foco em uma apresentação objetiva dos principais indicadores de Recursos Humanos.
 
+### Indicadores apresentados
+
+| Indicador | Resultado |
+|---|---:|
+| Total de empregados | 8 |
+| Total de departamentos | 3 |
+| Total de projetos | 6 |
+| Total de dependentes | 7 |
+| Total de horas trabalhadas | 2 mil |
+
 ### Análises desenvolvidas
 
 - Empregados por departamento
@@ -51,7 +61,28 @@ O dashboard foi desenvolvido em página única, com foco em uma apresentação o
 
 ---
 
-Os relacionamentos foram configurados no modelo do Power BI para permitir a integração das informações e a construção das análises.
+## Modelo de Dados
+
+O projeto utiliza um modelo relacional estruturado a partir de tabelas de Recursos Humanos.
+
+Entre as entidades utilizadas estão:
+
+- Employee
+- Department
+- Department Locations
+- Project
+- Works
+- Dependent
+
+Entre os principais relacionamentos utilizados estão:
+
+- Employee → Works
+- Department → Employee
+- Department → Department Locations
+- Project → Works
+- Employee → Dependent
+
+A configuração dos relacionamentos foi feita no modelo do Power BI, permitindo a integração das informações e a construção das análises.
 
 ---
 
@@ -77,32 +108,6 @@ Foram executadas etapas como:
 
 - Implementação de medidas DAX avançadas para indicadores preditivos.
 - Criação de documentação complementar de validação de dados (QA).
-
-## Modelagem
-
-A modelagem foi estruturada considerando as relações entre empregados, departamentos, projetos, atividades e dependentes.
-
-Entre os principais relacionamentos utilizados estão:
-
-- Employee → Works
-- Department → Employee
-- Department → Department Locations
-- Project → Works
-- Employee → Dependent
-
-A configuração dos relacionamentos permitiu utilizar as informações de diferentes tabelas de forma integrada no dashboard.
-
----
-
-## Indicadores apresentados
-
-| Indicador | Resultado |
-|---|---:|
-| Total de empregados | 8 |
-| Total de departamentos | 3 |
-| Total de projetos | 6 |
-| Total de dependentes | 7 |
-| Total de horas trabalhadas | 2 mil |
 
 ---
 
