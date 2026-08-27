@@ -16,7 +16,7 @@ Este repositório documenta não apenas a entrega técnica do painel, mas també
 
 **Superação de Barreiras de Permissão:** Identificação de restrições de escrita no sistema de arquivos e ajuste de permissões para desbloquear a edição direta do arquivo de documentação (`README.md`).
 
-**Instalação e Configuração de Controle de Versão:** 
+**Instalação e Configuração de Controle de Versão:**
 
 Instalação autônoma do utilitário Git for Windows, configuração de identidade de usuário e e-mail via terminal integrado, realização de commits e publicação estruturada diretamente para o GitHub.
 
@@ -27,6 +27,14 @@ Instalação autônoma do utilitário Git for Windows, configuração de identid
 Desenvolver um dashboard de Gestão de Recursos Humanos utilizando Power BI, contemplando tratamento, modelagem, relacionamento e análise dos dados.
 
 O projeto demonstra a aplicação prática de conceitos de Business Intelligence, modelagem de dados, Power Query, DAX e visualização de informações.
+
+---
+
+## Fontes de Dados
+
+Os dados utilizados no projeto foram estruturados em um banco de dados MySQL, montado localmente com apoio do XAMPP e do phpMyAdmin, contendo as tabelas Employee, Department, Department Locations, Project, Works e Dependent.
+
+O Power BI Desktop foi conectado a essa base para realizar a extração, o tratamento via Power Query e a modelagem dos dados que compõem o dashboard.
 
 ---
 
@@ -172,6 +180,15 @@ O projeto também demonstra a importância da preparação e da modelagem dos da
 
 - `Dashboard_Gestao_Recursos_Humanos_DIO_Santander.pbix` — arquivo-fonte editável do Power BI.
 - `Dashboard_Gestao_Recursos_Humanos_DIO_Santander.pdf` — versão final do dashboard para visualização.
+
+---
+
+## Como Reproduzir o Dashboard
+
+1. Baixe o arquivo `Dashboard_Gestao_Recursos_Humanos_DIO_Santander.pbix` deste repositório.
+2. Abra o arquivo com o Power BI Desktop — os dados e visualizações já estão incorporados no arquivo, permitindo visualizar e interagir com o painel sem necessidade de conexão externa.
+3. Para atualizar com uma nova fonte de dados, é necessário recriar a base MySQL com a mesma estrutura de tabelas (Employee, Department, Department Locations, Project, Works, Dependent) via XAMPP/phpMyAdmin e reconfigurar a conexão no Power BI Desktop.
+4. Após reconectar a fonte, use a opção "Atualizar" no Power BI Desktop para recarregar o modelo com os dados atualizados.
 
 ---
 
