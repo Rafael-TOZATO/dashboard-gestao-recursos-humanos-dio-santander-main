@@ -42,14 +42,6 @@ O Power BI Desktop foi conectado a essa base para realizar a extração, o trata
 
 O dashboard foi desenvolvido em página única, com foco em uma apresentação objetiva dos principais indicadores de Recursos Humanos.
 
-### Indicadores principais
-
-- Total de empregados
-- Total de departamentos
-- Total de projetos
-- Total de dependentes
-- Total de horas trabalhadas
-
 ### Análises desenvolvidas
 
 - Empregados por departamento
@@ -58,19 +50,6 @@ O dashboard foi desenvolvido em página única, com foco em uma apresentação o
 - Salário por departamento e sexo
 
 ---
-
-## Modelo de dados
-
-O projeto utiliza um modelo relacional estruturado a partir de tabelas de Recursos Humanos.
-
-Entre as entidades utilizadas estão:
-
-- Employee
-- Department
-- Department Locations
-- Project
-- Works
-- Dependent
 
 Os relacionamentos foram configurados no modelo do Power BI para permitir a integração das informações e a construção das análises.
 
