@@ -104,13 +104,6 @@ Foram executadas etapas como:
 
 ---
 
-## 💡 Próximos Passos
-
-- Implementação de medidas DAX avançadas para indicadores preditivos.
-- Criação de documentação complementar de validação de dados (QA).
-
----
-
 ## Visualizações
 
 ### Empregados por Departamento
@@ -173,6 +166,13 @@ O projeto também demonstra a importância da preparação e da modelagem dos da
 2. Abra o arquivo com o Power BI Desktop — os dados e visualizações já estão incorporados no arquivo, permitindo visualizar e interagir com o painel sem necessidade de conexão externa.
 3. Para atualizar com uma nova fonte de dados, é necessário recriar a base MySQL com a mesma estrutura de tabelas (Employee, Department, Department Locations, Project, Works, Dependent) via XAMPP/phpMyAdmin e reconfigurar a conexão no Power BI Desktop.
 4. Após reconectar a fonte, use a opção "Atualizar" no Power BI Desktop para recarregar o modelo com os dados atualizados.
+
+---
+
+## 💡 Próximos Passos
+
+- Implementação de medidas DAX avançadas para indicadores preditivos.
+- Criação de documentação complementar de validação de dados (QA).
 
 ---
 
