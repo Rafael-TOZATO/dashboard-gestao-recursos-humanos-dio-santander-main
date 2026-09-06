@@ -1,5 +1,7 @@
 # Dashboard de Gestão de RH (Power BI) desenvolvido com apoio da plataforma IBM Bob — inclui documentação da jornada técnica e resolução de desafios de ambiente.
 
+![Branch Protection](https://img.shields.io/badge/branch%20protection-active-success)
+
 Projeto desenvolvido em Power BI no contexto do desafio da DIO em parceria com o Santander.
 
 O projeto tem como objetivo transformar dados estruturados de Recursos Humanos em indicadores e análises visuais para apoio à tomada de decisão.
