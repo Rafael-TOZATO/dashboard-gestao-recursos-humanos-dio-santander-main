@@ -1,5 +1,5 @@
 <p align="center">
-  ./assets/Designer.png
+  ./Designer.png
 </p>
 
 <p align="center">
