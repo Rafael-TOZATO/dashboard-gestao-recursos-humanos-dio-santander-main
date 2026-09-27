@@ -1,5 +1,5 @@
 <p align="center">
-  ./Designer.png
+  <img src="Designer.png" alt="Banner do Projeto" width="100%">
 </p>
 
 <p align="center">
