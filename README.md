@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner-rh.svg" alt="Dashboard de Gestão de RH Animado" width="100%">
+  ./assets/Designer.png
 </p>
 
 <p align="center">
