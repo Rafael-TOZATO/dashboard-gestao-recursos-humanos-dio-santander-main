@@ -205,3 +205,4 @@ Engenharia Química | Qualidade & P&D | Dados | Power BI
 - LinkedIn: [Rafael Ornelas Tozato](https://linkedin.com/in/rafaeltozato81)
 - Medium: [Rafael Ornelas Tozato](https://medium.com/@ornelas.tozato)
 - GitHub: [Rafael-TOZATO](https://github.com/Rafael-TOZATO)
+- Lovable: [aurora-bi-dio.lovable.app](https://aurora-bi-dio.lovable.app)
