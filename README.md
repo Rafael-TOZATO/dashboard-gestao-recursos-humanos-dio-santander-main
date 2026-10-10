@@ -199,10 +199,11 @@ O projeto também demonstra a importância da preparação e da modelagem dos da
 
 Engenharia Química | Qualidade & P&D | Dados | Power BI
 
-### Contato
+## 📬 Contatos
 
-- E-mail: [ornelas.tozato@gmail.com](mailto:ornelas.tozato@gmail.com)
-- LinkedIn: [Rafael Ornelas Tozato](https://linkedin.com/in/rafaeltozato81)
-- Medium: [Rafael Ornelas Tozato](https://medium.com/@ornelas.tozato)
-- GitHub: [Rafael-TOZATO](https://github.com/Rafael-TOZATO)
-- Lovable: [aurora-bi-dio.lovable.app](https://aurora-bi-dio.lovable.app)
+- 💼 **LinkedIn:** [rafaeltozato81](https://www.linkedin.com/in/rafaeltozato81)
+- 🐙 **GitHub:** [Rafael-TOZATO](https://github.com/Rafael-TOZATO)
+- ✍️ **Medium:** [@ornelas.tozato](https://medium.com/@ornelas.tozato)
+- 🌐 **Portfólio PWA:** [tozato-dev-hub.vercel.app](https://tozato-dev-hub.vercel.app)
+- 🚀 **Aurora BI (Lovable):** [aurora-bi-dio.lovable.app](https://aurora-bi-dio.lovable.app)
+
