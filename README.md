@@ -21,8 +21,6 @@ Projeto desenvolvido em Power BI no contexto do desafio da DIO em parceria com o
 
 O projeto tem como objetivo transformar dados estruturados de Recursos Humanos em indicadores e análises visuais para apoio à tomada de decisão.
 
----
-
 ## 🛠️ Jornada de Desenvolvimento e Configuração do Ambiente
 
 Este repositório documenta não apenas a entrega técnica do painel, mas também a resolução autônoma de desafios de infraestrutura e versionamento:
@@ -37,23 +35,17 @@ Este repositório documenta não apenas a entrega técnica do painel, mas també
 
 Instalação autônoma do utilitário Git for Windows, configuração de identidade de usuário e e-mail via terminal integrado, realização de commits e publicação estruturada diretamente para o GitHub.
 
----
-
 ## Objetivo
 
 Desenvolver um dashboard de Gestão de Recursos Humanos utilizando Power BI, contemplando tratamento, modelagem, relacionamento e análise dos dados.
 
 O projeto demonstra a aplicação prática de conceitos de Business Intelligence, modelagem de dados, Power Query, DAX e visualização de informações.
 
----
-
 ## Fontes de Dados
 
 Os dados utilizados no projeto foram estruturados em um banco de dados MySQL, montado localmente com apoio do XAMPP e do phpMyAdmin, contendo as tabelas Employee, Department, Department Locations, Project, Works e Dependent.
 
 O Power BI Desktop foi conectado a essa base para realizar a extração, o tratamento via Power Query e a modelagem dos dados que compõem o dashboard.
-
----
 
 ## Dashboard
 
@@ -75,8 +67,6 @@ O dashboard foi desenvolvido em página única, com foco em uma apresentação o
 - Horas trabalhadas por projeto
 - Dependentes por empregado
 - Salário por departamento e sexo
-
----
 
 ## Modelo de Dados
 
@@ -101,8 +91,6 @@ Entre os principais relacionamentos utilizados estão:
 
 A configuração dos relacionamentos foi feita no modelo do Power BI, permitindo a integração das informações e a construção das análises.
 
----
-
 ## Tratamento dos dados
 
 O tratamento dos dados foi realizado utilizando o Power Query.
@@ -118,8 +106,6 @@ Foram executadas etapas como:
 - preparação das tabelas para o modelo;
 - validação dos relacionamentos;
 - aplicação das alterações no modelo.
-
----
 
 ## Visualizações
 
@@ -139,8 +125,6 @@ Apresenta a distribuição dos dependentes associados aos empregados.
 
 Permite comparar a distribuição salarial entre departamentos e segmentos por sexo.
 
----
-
 ## Tecnologias e ferramentas
 
 - Power BI Desktop
@@ -152,15 +136,11 @@ Permite comparar a distribuição salarial entre departamentos e segmentos por s
 - Excel
 - GitHub
 
----
-
 ## Contexto do projeto
 
 Projeto desenvolvido como parte de uma atividade prática da plataforma DIO, em parceria com o Santander.
 
 A atividade teve como foco o desenvolvimento de uma solução de análise de dados utilizando Power BI, envolvendo preparação dos dados, modelagem, relacionamentos, indicadores e visualização.
-
----
 
 ## Resultado
 
@@ -168,14 +148,10 @@ O resultado é um dashboard interativo de Gestão de Recursos Humanos, estrutura
 
 O projeto também demonstra a importância da preparação e da modelagem dos dados antes da construção dos indicadores e visualizações.
 
----
-
 ## Arquivos do projeto
 
 - `Dashboard_Gestao_Recursos_Humanos_DIO_Santander.pbix` — arquivo-fonte editável do Power BI.
 - `Dashboard_Gestao_Recursos_Humanos_DIO_Santander.pdf` — versão final do dashboard para visualização.
-
----
 
 ## Como Reproduzir o Dashboard
 
@@ -184,14 +160,10 @@ O projeto também demonstra a importância da preparação e da modelagem dos da
 3. Para atualizar com uma nova fonte de dados, é necessário recriar a base MySQL com a mesma estrutura de tabelas (Employee, Department, Department Locations, Project, Works, Dependent) via XAMPP/phpMyAdmin e reconfigurar a conexão no Power BI Desktop.
 4. Após reconectar a fonte, use a opção "Atualizar" no Power BI Desktop para recarregar o modelo com os dados atualizados.
 
----
-
 ## 💡 Próximos Passos
 
 - Implementação de medidas DAX avançadas para indicadores preditivos.
 - Criação de documentação complementar de validação de dados (QA).
-
----
 
 ## Autor
 
@@ -199,12 +171,20 @@ O projeto também demonstra a importância da preparação e da modelagem dos da
 
 Engenharia Química | Qualidade & P&D | Dados | Power BI
 
-## 📬 Contatos
+## 📬 CONTATOS E PERFIS
 
-- 💼 **LinkedIn:** [rafaeltozato81](https://www.linkedin.com/in/rafaeltozato81)
-- 🐙 **GitHub:** [Rafael-TOZATO](https://github.com/Rafael-TOZATO)
-- ✍️ **Medium:** [@ornelas.tozato](https://medium.com/@ornelas.tozato)
-- 🌐 **Portfólio PWA (Dev Hub):** [tozato-dev-hub.vercel.app](https://tozato-dev-hub.vercel.app)
-- 🌐 **H-Folio:** [h-folio-psi.vercel.app](https://h-folio-psi.vercel.app)
-- 🚀 **Aurora BI (Lovable):** [aurora-bi-dio.lovable.app](https://aurora-bi-dio.lovable.app)
-- 📜 **Microsoft Learn:** [Transcript](https://learn.microsoft.com/pt-br/users/rafaelornelastozato-2209/transcript/dzo2wizrzkx2853)
+💻 **PROJETOS E PORTFÓLIOS**
+* Ecossistema de Aplicativos: [tozato-ai-core.vercel.app](https://tozato-ai-core.vercel.app)
+* H-Folio Professional: [h-folio-I0.vercel.app](https://h-folio-I0.vercel.app)
+
+🐙 **CÓDIGOS E REPOSITÓRIOS**
+* GitHub: [github.com/Rafael-TOZATO](https://github.com/Rafael-TOZATO)
+
+✍️ **ARTIGOS E PUBLICAÇÕES**
+* Medium: [medium.com/@ornelas.tozato](https://medium.com/@ornelas.tozato)
+* Comunidade DEV: [dev.to/rafaeltozato](https://dev.to/rafaeltozato)
+
+💼 **CONTATO**
+* LinkedIn: [linkedin.com/in/rafaeltozato81](https://www.linkedin.com/in/rafaeltozato81)
+* E-mail: ornelas.tozato@gmail.com
+  
